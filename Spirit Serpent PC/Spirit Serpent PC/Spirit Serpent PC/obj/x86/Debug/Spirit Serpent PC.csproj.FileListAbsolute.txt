@@ -1,0 +1,25 @@
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Spirit Serpent PC.exe
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Spirit Serpent PC.pdb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Debug\Spirit Serpent PC.exe
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Debug\Spirit Serpent PC.pdb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\Background.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\bullet_blood.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\bullet_fire.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\bullet_fish.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\coin.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\coin_bullets.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\coin_invincible.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\Death.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\enemy_raincloud.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\enemy_raindrop.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\PhoneGameThumb.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\player_head.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\player_tail_end.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\player_tail_middle.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\super_coin.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\wind.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\SegoeUI.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\Output12.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Debug\Content\cursor.xnb

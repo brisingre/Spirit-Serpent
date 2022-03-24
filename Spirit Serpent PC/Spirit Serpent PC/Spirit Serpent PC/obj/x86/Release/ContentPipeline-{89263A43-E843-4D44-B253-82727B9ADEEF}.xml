@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Background.xnb</Output>
+      <Time>2012-02-11T20:46:52.3359375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet_blood.png</Source>
+      <Name>bullet_blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_blood.xnb</Output>
+      <Time>2012-02-11T20:46:52.296875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet_fire.png</Source>
+      <Name>bullet_fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fire.xnb</Output>
+      <Time>2012-02-11T20:46:52.1523437-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet_fish.png</Source>
+      <Name>bullet_fish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fish.xnb</Output>
+      <Time>2012-02-11T20:46:52.1591796-05:00</Time>
+    </Item>
+    <Item>
+      <Source>coin.png</Source>
+      <Name>coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin.xnb</Output>
+      <Time>2012-02-11T20:46:58.4765625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>coin_bullets.png</Source>
+      <Name>coin_bullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_bullets.xnb</Output>
+      <Time>2012-02-11T20:46:52.3408203-05:00</Time>
+    </Item>
+    <Item>
+      <Source>coin_invincible.png</Source>
+      <Name>coin_invincible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_invincible.xnb</Output>
+      <Time>2012-02-11T20:46:58.5224609-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Death.png</Source>
+      <Name>Death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Death.xnb</Output>
+      <Time>2012-02-11T20:46:52.3623046-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy_raincloud.png</Source>
+      <Name>enemy_raincloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raincloud.xnb</Output>
+      <Time>2012-02-11T20:46:52.328125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy_raindrop.png</Source>
+      <Name>enemy_raindrop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raindrop.xnb</Output>
+      <Time>2012-02-11T20:46:52.3154296-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PhoneGameThumb.png</Source>
+      <Name>PhoneGameThumb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\PhoneGameThumb.xnb</Output>
+      <Time>2012-02-11T20:46:52.28125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player_head.png</Source>
+      <Name>player_head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_head.xnb</Output>
+      <Time>2012-02-11T20:46:52.321289-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player_tail_end.png</Source>
+      <Name>player_tail_end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_end.xnb</Output>
+      <Time>2012-02-11T20:46:58.5302734-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player_tail_middle.png</Source>
+      <Name>player_tail_middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_middle.xnb</Output>
+      <Time>2012-02-11T20:46:52.352539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>super_coin.png</Source>
+      <Name>super_coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\super_coin.xnb</Output>
+      <Time>2012-02-11T20:46:52.2910156-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wind.png</Source>
+      <Name>wind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\wind.xnb</Output>
+      <Time>2012-02-11T20:46:52.274414-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\cursor.xnb</Output>
+      <Time>2012-02-12T20:59:27.2912735-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Output 1-2.wav</Source>
+      <Name>Output12</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Output12.xnb</Output>
+      <Time>2012-02-11T20:46:58.5166015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SegoeUI.spritefont</Source>
+      <Name>SegoeUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\SegoeUI.xnb</Output>
+      <Time>2012-02-11T20:46:52.3037109-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{89263A43-E843-4D44-B253-82727B9ADEEF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PCContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-16T08:57:18.6139365-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

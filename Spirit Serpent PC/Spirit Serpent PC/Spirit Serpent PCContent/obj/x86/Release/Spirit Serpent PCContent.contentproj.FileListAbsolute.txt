@@ -1,0 +1,3 @@
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PCContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PCContent\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PCContent\obj\x86\Release\Spirit Serpent PCContent.contentprojResolveAssemblyReference.cache

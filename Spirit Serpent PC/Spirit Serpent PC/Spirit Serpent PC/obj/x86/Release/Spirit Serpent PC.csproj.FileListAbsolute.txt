@@ -1,0 +1,85 @@
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Background.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_blood.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fire.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fish.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_bullets.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_invincible.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Death.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raincloud.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raindrop.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\PhoneGameThumb.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_head.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_end.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_middle.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\super_coin.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\wind.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\cursor.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Output12.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\SegoeUI.xnb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Spirit Serpent PC.exe
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Spirit Serpent PC.pdb
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Spirit Serpent PC.exe
+C:\Users\Lou\Desktop\Game Architecture\lessing.lou\Data Structures and Algorithms Work (Sorry)\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Spirit Serpent PC.pdb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Background.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_blood.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fire.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fish.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_bullets.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_invincible.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Death.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raincloud.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raindrop.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\PhoneGameThumb.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_head.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_end.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_middle.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\super_coin.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\wind.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\cursor.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Output12.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\SegoeUI.xnb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Spirit Serpent PC.exe
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Spirit Serpent PC.pdb
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Spirit Serpent PC.exe
+C:\Users\Lou\Desktop\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Spirit Serpent PC.pdb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Background.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_blood.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fire.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\bullet_fish.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_bullets.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\coin_invincible.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Death.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raincloud.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\enemy_raindrop.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\PhoneGameThumb.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_head.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_end.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\player_tail_middle.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\super_coin.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\wind.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\cursor.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\Output12.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Content\SegoeUI.xnb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Spirit Serpent PC.exe
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Spirit Serpent PC.pdb
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.dll
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.Game.dll
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.dll
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.Graphics.dll
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.xml
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.Game.xml
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.Graphics.xml
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.xml
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Spirit Serpent PC.csprojResolveAssemblyReference.cache
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Spirit Serpent PC.exe
+D:\Backup\Pre SSD Backup\Users\Lou\Desktop\Old\Zeal Helix\trunk\Spirit Serpent PC\Spirit Serpent PC\Spirit Serpent PC\obj\x86\Release\Spirit Serpent PC.pdb
